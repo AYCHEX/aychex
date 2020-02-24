@@ -1,4 +1,4 @@
-Litecoin Core integration/staging tree
+Aychex integration/staging tree
 =====================================
 
 [![Build Status](https://travis-ci.org/litecoin-project/litecoin.svg?branch=master)](https://travis-ci.org/litecoin-project/litecoin)
@@ -19,8 +19,7 @@ the Litecoin Core software, see [https://litecoin.org](https://litecoin.org).
 
 License
 -------
-
-Litecoin Core is released under the terms of the MIT license. See [COPYING](COPYING) for more
+Aychex Base is released under the terms of the MIT license. See [COPYING](COPYING) for more
 information or see https://opensource.org/licenses/MIT.
 
 Development Process
