@@ -1,11 +1,10 @@
 Aychex integration/staging tree
 =====================================
 
-[![Build Status](https://travis-ci.org/litecoin-project/litecoin.svg?branch=master)](https://travis-ci.org/litecoin-project/litecoin)
 
-https://litecoin.org
+https://github.com/aychex/aychex
 
-What is Litecoin?
+What is Aychex?
 ----------------
 
 Litecoin is an experimental digital currency that enables instant payments to
@@ -26,16 +25,16 @@ Development Process
 -------------------
 
 The `master` branch is regularly built and tested, but is not guaranteed to be
-completely stable. [Tags](https://github.com/litecoin-project/litecoin/tags) are created
+completely stable. [Tags](https://github.com/aychex/aychex/tags) are created
 regularly to indicate new official, stable release versions of Litecoin Core.
 
 The contribution workflow is described in [CONTRIBUTING.md](CONTRIBUTING.md).
 
-The developer [mailing list](https://groups.google.com/forum/#!forum/litecoin-dev)
+The developer [mailing list](https://github.com/aychex/aychex/wiki)
 should be used to discuss complicated or controversial changes before working
 on a patch set.
 
-Developer IRC can be found on Freenode at #litecoin-dev.
+Developer IRC can be found on Freenode at #aychex-dev.
 
 Testing
 -------
@@ -68,11 +67,11 @@ not straightforward.
 Translations
 ------------
 
-We only accept translation fixes that are submitted through [Bitcoin Core's Transifex page](https://www.transifex.com/projects/p/bitcoin/).
+We only accept translation fixes that are submitted through [Aychex Base's Transifex page](https://github.com/aychex/projects/).
 Translations are converted to Litecoin periodically.
 
 Translations are periodically pulled from Transifex and merged into the git repository. See the
-[translation process](doc/translation_process.md) for details on how this works.
+[translation process](readme.md) for details on how this works.
 
 **Important**: We do not accept translation changes as GitHub pull requests because the next
 pull from Transifex would automatically overwrite them again.
